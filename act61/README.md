@@ -7,5 +7,5 @@
 <strong>Navbar</strong>
 - Navbars require a wrapping .navbar with .navbar-expand{-sm|-md|-lg|-xl} for responsive collapsing and color scheme classes.
 
-<strongButtonr</strong>
+<strong>Button</strong>
 -Bootstrap includes several predefined button styles, each serving its own semantic purpose, with a few extras thrown in for more control.
